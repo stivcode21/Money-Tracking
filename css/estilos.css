@@ -40,7 +40,7 @@ body {
   flex-direction: column;
   width: 100%;
   color: #fff;
-  background: url(bgg-4.svg);
+  background: url(/img/bgg-4.svg);
 }
 
 .presupuesto {
